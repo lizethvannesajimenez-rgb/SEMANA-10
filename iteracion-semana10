@@ -1,0 +1,45 @@
+Tarea 1: Automatización del flujo
+de registro y notificaciones para
+los miembros de la comunidad.
+
+Tarea 2: Configuración de los canales
+de comunicación y coordinación del 
+equipo (ej. Slack, Discord o tableros 
+Kanban compartidos).
+
+Justificación de ImportanciaReducción
+de carga manual: La automatización
+inicial evita cuellos de botella en
+la gestión comunitaria.Alineación del equipo:
+Coordinar los canales de trabajo primero
+asegura que los siguientes esfuerzos estén
+organizados.Valor temprano: Permite recibir 
+y gestionar a la comunidad de forma eficiente
+desde la primera iteración.
+
+Definición de "Terminado" 
+(DoD)Para este contexto, una tarea está 
+"terminada" cuando cumple con:Pruebas 
+de flujo: El proceso automatizado 
+funciona de inicio a fin sin errores 
+manuales.Validación de accesos: Todos 
+los coordinadores comunitarios tienen 
+acceso a las herramientas y saben 
+usarlas.Documentación: Existe una 
+guía breve de cómo funciona el sistema
+de automatización y coordinación.
+
+
+Cumple el objetivo: Funciona exactamente
+como lo pidió el cliente o usuario.
+
+Sin errores: Fue probada y no genera
+fallos en el sistema.
+
+Código limpio: 
+El código fue revisado por otro compañero
+del equipo.
+
+Integrada: Está guardada y
+respaldada en el repositorio central de Git
+
